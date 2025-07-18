@@ -1,0 +1,17 @@
+C:\Users\User\Documents\Program\Games\Stroop Test\Stroop Test\bin\Release\net8.0-windows\Stroop Test.exe
+C:\Users\User\Documents\Program\Games\Stroop Test\Stroop Test\bin\Release\net8.0-windows\Stroop Test.deps.json
+C:\Users\User\Documents\Program\Games\Stroop Test\Stroop Test\bin\Release\net8.0-windows\Stroop Test.runtimeconfig.json
+C:\Users\User\Documents\Program\Games\Stroop Test\Stroop Test\bin\Release\net8.0-windows\Stroop Test.dll
+C:\Users\User\Documents\Program\Games\Stroop Test\Stroop Test\bin\Release\net8.0-windows\Stroop Test.pdb
+C:\Users\User\Documents\Program\Games\Stroop Test\Stroop Test\obj\Release\net8.0-windows\Stroop_Test.Form1.resources
+C:\Users\User\Documents\Program\Games\Stroop Test\Stroop Test\obj\Release\net8.0-windows\Stroop_Test.Properties.Resources.resources
+C:\Users\User\Documents\Program\Games\Stroop Test\Stroop Test\obj\Release\net8.0-windows\Stroop Test.csproj.GenerateResource.cache
+C:\Users\User\Documents\Program\Games\Stroop Test\Stroop Test\obj\Release\net8.0-windows\Stroop Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Program\Games\Stroop Test\Stroop Test\obj\Release\net8.0-windows\Stroop Test.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Program\Games\Stroop Test\Stroop Test\obj\Release\net8.0-windows\Stroop Test.AssemblyInfo.cs
+C:\Users\User\Documents\Program\Games\Stroop Test\Stroop Test\obj\Release\net8.0-windows\Stroop Test.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Program\Games\Stroop Test\Stroop Test\obj\Release\net8.0-windows\Stroop Test.dll
+C:\Users\User\Documents\Program\Games\Stroop Test\Stroop Test\obj\Release\net8.0-windows\refint\Stroop Test.dll
+C:\Users\User\Documents\Program\Games\Stroop Test\Stroop Test\obj\Release\net8.0-windows\Stroop Test.pdb
+C:\Users\User\Documents\Program\Games\Stroop Test\Stroop Test\obj\Release\net8.0-windows\Stroop Test.genruntimeconfig.cache
+C:\Users\User\Documents\Program\Games\Stroop Test\Stroop Test\obj\Release\net8.0-windows\ref\Stroop Test.dll
